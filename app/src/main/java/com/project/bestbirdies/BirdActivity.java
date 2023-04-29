@@ -12,7 +12,7 @@ import com.project.bestbirdys.R;
 public class BirdActivity extends AppCompatActivity {
 
     public static final String B1 = "Black Browed Albastross";
-    public static final String B2 = "Serbian Crane";
+    public static final String B2 = "Siberian Crane";
     public static final String B3 = "Eskimo Curlew";
     public static final String B4 = "Piping Plover";
     public static final String B5 = "Hyacinth Macaw";
